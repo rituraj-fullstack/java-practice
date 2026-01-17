@@ -4,5 +4,5 @@ Technologies:
   -Java
   -HTML,CSS
   -Spring Boot
-  -MySQL
+  -MySQL (Database)
 
